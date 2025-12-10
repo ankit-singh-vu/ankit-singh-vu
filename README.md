@@ -1,5 +1,14 @@
 - 👋 Hi, I’m @ankit-singh-vu
+Node.js      
+* https://github.com/ankit-singh-vu/node_server      
+* https://github.com/ankit-singh-vu/mocha
+* https://github.com/ankit-singh-vu/chat-app-2
 
+
+payment gateway      
+* https://github.com/ankit-singh-vu/Custom-card--integration-adyen        
+* https://github.com/ankit-singh-vu/adyen-php-online-payments
+    
 devops:     
 * https://github.com/ankit-singh-vu/jenkins
 * https://github.com/ankit-singh-vu/vagrant-kubeadm-kubernetes        
@@ -12,22 +21,8 @@ devops:
 golang:      
 * https://github.com/ankit-singh-vu/go-REST-api
 
-
-Node.js      
-* https://github.com/ankit-singh-vu/node_server      
-* https://github.com/ankit-singh-vu/mocha
-* https://github.com/ankit-singh-vu/chat-app-2
-
-payment gateway      
-* https://github.com/ankit-singh-vu/Custom-card--integration-adyen        
-* https://github.com/ankit-singh-vu/adyen-php-online-payments      
-
 vs code      
 * https://github.com/ankit-singh-vu/vs_code_snippets        
 
 php codeigniter      
 * https://github.com/ankit-singh-vu/ci-todo
-
-
-
-
